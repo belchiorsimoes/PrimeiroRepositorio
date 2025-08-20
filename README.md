@@ -1,2 +1,3 @@
 # PrimeiroRepositorio
 este e o meu primeiro repositorio
+editei pelo github. estava longe do meu computador...
